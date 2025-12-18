@@ -1,0 +1,7 @@
+Python libraries:
+
+numpy
+math
+itertools
+random
+matplotlib.pyplot
